@@ -3,4 +3,4 @@ Personal web page. I describe part of my biographical data, contact information,
 
 Developed only with HTML, CSS and Bootstrap.
 
-URL: 
+URL: https://karollart.github.io/designs/
